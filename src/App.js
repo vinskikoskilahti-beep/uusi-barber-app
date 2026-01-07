@@ -1,6 +1,6 @@
 import React from 'react';
 import BookingForm from './BookingForm';
-import './App.css'; // varmista, että CSS on mukana
+import './App.css';
 
 function App() {
   return (
